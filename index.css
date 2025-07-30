@@ -3,3 +3,14 @@ body {
     color: white;
     text-align: center;
 }
+
+main
+{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+footer { 
+    color: #666; 
+    font-size: small; 
+}
